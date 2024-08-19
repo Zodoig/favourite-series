@@ -107,3 +107,12 @@ hr {
     margin-left: 5%;
     margin-right: 5%;
   }
+
+
+  @media (max-width: 530px) {
+    .flex-item {
+        min-width: 350px;
+        padding-bottom: 25px;
+    }
+    
+  }
