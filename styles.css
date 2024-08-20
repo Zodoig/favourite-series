@@ -129,7 +129,7 @@ hr {
   @media (max-width: 530px) {
     .flex-item {
         min-width: 350px;
-        padding-bottom: 25px;
+        padding-bottom: 50px;
     }
     
   }
